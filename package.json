@@ -7,9 +7,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/username/shadowsocks-ws.git"
+    "url": "https://github.com/Aebastiane/sstoo.git"
   },
-  "homepage": "https://github.com/username/shadowsocks-ws",
+  "homepage": "https://github.com/Aebastiane/sstoo",
   "license": "MIT",
   "dependencies": {
     "colors": "^1.4.0",
